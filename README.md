@@ -1,7 +1,13 @@
- ## Boas víndas ao meu perfil 🐱
+ ![](https://media.tenor.com/5u1GngfZ5D4AAAAM/luffy.gif)                                                                         
  
- * Estou estudando na Alura
- * desenvolvendo na linguagem javascript
+ 
+ 
+ 
+ 
+ ## Boas víndas ao meu perfil 🐱                                                          
+
+ * Estou estudando na Alura                                                                                                                                
+ * desenvolvendo na linguagem javascript                                                
  * utilizo esse espaço para compartilhar meu projetos
  
 ## Meus projetos 🎮
@@ -13,3 +19,6 @@
  * #### Scratch: https://scratch.mit.edu/users/goku5332w/
  * #### gmail:
  
+
+
+
